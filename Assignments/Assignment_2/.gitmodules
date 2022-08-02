@@ -1,0 +1,3 @@
+[submodule "ML_Course_UT_Austin"]
+	path = ML_Course_UT_Austin
+	url = https://github.com/animeshrastogi/ML_Course_UT_Austin.git
